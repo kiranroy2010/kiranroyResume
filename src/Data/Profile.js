@@ -20,6 +20,8 @@ import rotson from '../Assets/Images/Projects/rotson.jpg';
 import signitive from '../Assets/Images/Projects/signitive.jpg';
 import ExpenseTracker from '../Assets/Images/Projects/ExpenseTracker.png';
 import InkCart from '../Assets/Images/Projects/InkCart.png';
+import socketIo from '../Assets/Images/Projects/Socket_io.jpeg';
+
 
 
 
@@ -245,6 +247,14 @@ const PROFILE = [
           link: 'https://kiranroy2010.github.io/Expense-Tracker/',
           projectImg:ExpenseTracker,
 
+        },
+        {
+          name: 'Real-time Group Chat with Socket.io',
+          techStack: ['Node.js', 'Express', 'Socket.io', 'HTML', 'CSS', 'JavaScript'],
+          shortDescription: 'Seamless real-time group chat with Socket.io and logging.',
+          description: 'Experience real-time communication in a group chat application using Socket.io. This app provides instant message delivery and server-side logging for historical records. The technology stack includes Node.js, Express, Socket.io, HTML, CSS, and JavaScript.',
+          link: '',
+          projectImg: socketIo, 
         },
         // Add more projects with techStack, description, and link...
       ],

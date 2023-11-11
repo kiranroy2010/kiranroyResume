@@ -1,0 +1,39 @@
+
+  
+  .user-info {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  @media (max-width: 767px) {
+    /* Add bottom border in mobile view */
+    .user-info {
+      border-bottom: 1px solid #ccc;
+    }
+  }
+  
+  
+  
+  
+  .user-details img {
+    width: 80px;
+    border-radius: 50%;
+  }
+  
+  .user-details p {
+    margin: 5px 0;
+    font-size: 12px;
+  }
+
+  .SocialLink{
+    text-decoration: none !important;
+    color: cornflowerblue;
+ 
+  }
+  
+  /* Add more styles as needed */
+  
