@@ -210,13 +210,13 @@ body {
   .YoutubeButton {
     color: #171819 !important;
       font-weight: 600 !important;
-    background-color: #DBEBCA !important;
-      border: 2px solid #407f00 !important;
+    background-color: #FECDA6 !important;
+      border: 2px solid #FF5B22 !important;
   }
   
   a.YoutubeButton:hover, a.YoutubeButton:focus {
     color: #fff;
-    background-color: #546257 !important;
+    background-color: #FF9130 !important;
   }
   
   a.YoutubeButton:focus, a.YoutubeButton.focus {

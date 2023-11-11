@@ -9,6 +9,8 @@ import GettingStartedWithNodejs_Read from '../Assets/Images/Youtube Banner/GSWN-
 import GettingStartedWithNodejs_Update from '../Assets/Images/Youtube Banner/GSWN-Update.png';
 import GettingStartedWithNodejs_Delete from '../Assets/Images/Youtube Banner/GSWN-Delete.png';
 import GETvsPOST from '../Assets/Images/Youtube Banner/GETvsPOST.png';
+import reactFreeHosting from '../Assets/Images/Youtube Banner/reactFreeHosting.png';
+
 
 // Image Import for Projects
 import cliqraiser from '../Assets/Images/Projects/cliqraiser.jpg';
@@ -21,6 +23,7 @@ import signitive from '../Assets/Images/Projects/signitive.jpg';
 import ExpenseTracker from '../Assets/Images/Projects/ExpenseTracker.png';
 import InkCart from '../Assets/Images/Projects/InkCart.png';
 import socketIo from '../Assets/Images/Projects/Socket_io.jpeg';
+
 
 
 
@@ -334,6 +337,12 @@ const PROFILE = [
           banner: GETvsPOST,
           link: 'https://youtu.be/uvyKNXApAjU',
           shortDesc: 'GET vs POST in HTTP',
+        },
+        {
+          title: 'No More Expenses: Hosting Your React App on GitHub for Free #reactjs #freehosting',
+          banner: reactFreeHosting,
+          link: 'https://youtu.be/zkp3tN_ewXk?si=6K3GLkglqlQkbq1J',
+          shortDesc: 'Hosting Your React App on GitHub for Free',
         },
         // Add more objects for additional videos
       ],
