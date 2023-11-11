@@ -1,14 +1,16 @@
 {
   "files": {
-    "main.css": "/kiranroyResume/static/css/main.68c48317.css",
-    "main.js": "/kiranroyResume/static/js/main.8db341a7.js",
+    "main.css": "/kiranroyResume/static/css/main.df680364.css",
+    "main.js": "/kiranroyResume/static/js/main.4e2a1e81.js",
     "static/js/787.61b554c9.chunk.js": "/kiranroyResume/static/js/787.61b554c9.chunk.js",
+    "static/media/Socket_io.jpeg": "/kiranroyResume/static/media/Socket_io.40efdf518c389599f67b.jpeg",
     "static/media/GETvsPOST.png": "/kiranroyResume/static/media/GETvsPOST.762d8c50e5413e44fd5f.png",
     "static/media/Inventory.png": "/kiranroyResume/static/media/Inventory.6718a5a36c6e9b1ffe05.png",
     "static/media/GettingStartedWithNodejs.png": "/kiranroyResume/static/media/GettingStartedWithNodejs.03f9905aa91f2bce05ac.png",
     "static/media/rotson.jpg": "/kiranroyResume/static/media/rotson.6c9fe4dfff9214fe4876.jpg",
     "static/media/ExpenseTracker.png": "/kiranroyResume/static/media/ExpenseTracker.87d56b51e17d01ae7c68.png",
     "static/media/SMTP-Auth.png": "/kiranroyResume/static/media/SMTP-Auth.bac191b7c434deb78ee1.png",
+    "static/media/reactFreeHosting.png": "/kiranroyResume/static/media/reactFreeHosting.f2592cfcc3b8a36ec7ac.png",
     "static/media/GSWN-Update.png": "/kiranroyResume/static/media/GSWN-Update.a404161e54dae1b9a40b.png",
     "static/media/Send-Mail-Java-SMTP.png": "/kiranroyResume/static/media/Send-Mail-Java-SMTP.28f7be00f49c90cbcb0d.png",
     "static/media/GSWN-Read.png": "/kiranroyResume/static/media/GSWN-Read.d87bab947be0a3270862.png",
@@ -25,12 +27,12 @@
     "static/media/norwester-webfont.woff": "/kiranroyResume/static/media/norwester-webfont.984c225c9eac894ff76c.woff",
     "static/media/norwester-webfont.woff2": "/kiranroyResume/static/media/norwester-webfont.51c01a41b337f0388dbf.woff2",
     "index.html": "/kiranroyResume/index.html",
-    "main.68c48317.css.map": "/kiranroyResume/static/css/main.68c48317.css.map",
-    "main.8db341a7.js.map": "/kiranroyResume/static/js/main.8db341a7.js.map",
+    "main.df680364.css.map": "/kiranroyResume/static/css/main.df680364.css.map",
+    "main.4e2a1e81.js.map": "/kiranroyResume/static/js/main.4e2a1e81.js.map",
     "787.61b554c9.chunk.js.map": "/kiranroyResume/static/js/787.61b554c9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.68c48317.css",
-    "static/js/main.8db341a7.js"
+    "static/css/main.df680364.css",
+    "static/js/main.4e2a1e81.js"
   ]
 }
