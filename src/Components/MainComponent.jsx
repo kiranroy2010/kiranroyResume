@@ -9,6 +9,7 @@ import MainInformation from './Body/MainInformation ';
 import WorkExperience from './Body/WorkExperience';
 import ProjectInfo from './Body/ProjectInfo';
 import Footer from './Footer/Footer'
+import WIDSection from './Body/What I do Section/WIDSection';
 
 
 function MainComponent(props) {
@@ -16,6 +17,7 @@ function MainComponent(props) {
         <div>
             <Header profile={PROFILE[0]} />
             <IntroSection profile={PROFILE[0]} />
+            <WIDSection profile={PROFILE[0]}/>
             <MainInformation profile={PROFILE[0]} />
             <WorkExperience profile={PROFILE[0]} />
             <ProjectInfo profile={PROFILE[0]} />

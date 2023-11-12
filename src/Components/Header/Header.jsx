@@ -44,7 +44,7 @@ function Header(props) {
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="m-auto">
               <Nav.Link href="#home">Home</Nav.Link>
-              <Nav.Link href="#WorkExp">Work Exp</Nav.Link>
+              <Nav.Link href="#WorkExp">Work Experience</Nav.Link>
               <Nav.Link href="#Projects">Projects</Nav.Link>
               <NavDropdown title="Socials" id="basic-nav-dropdown">
                 <NavDropdown.Item
@@ -65,13 +65,15 @@ function Header(props) {
                 >
                   <FontAwesomeIcon icon={faGithub} /> : Github
                 </NavDropdown.Item>
-                <NavDropdown.Divider />
-                <NavDropdown.Item
-                  href={props.profile.whatsapp_API}
-                  target="_blank"
-                >
-                  <FontAwesomeIcon icon={faWhatsapp} /> : WhatsApp
-                </NavDropdown.Item>
+                {props.profile.Whatsapp_Number ? (
+  <>
+    <NavDropdown.Divider />
+    <NavDropdown.Item href={props.profile.whatsapp_API} target="_blank">
+      <FontAwesomeIcon icon={faWhatsapp} /> : WhatsApp
+    </NavDropdown.Item>
+  </>
+) : null}
+
               </NavDropdown>
             </Nav>
             <Navbar.Text>{`${formattedDate}, ${formattedTime}`}</Navbar.Text>

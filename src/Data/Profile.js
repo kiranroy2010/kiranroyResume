@@ -1,3 +1,5 @@
+import { faCode, faLaptopCode, faChalkboardTeacher, faBriefcase } from '@fortawesome/free-solid-svg-icons';
+
 import profileImage from '../Assets/Images/1621758938052.jpeg';
 
 // Image Import for Youtube Banner
@@ -109,6 +111,7 @@ const PROFILE = [
         'AEM',
         'Php',
         'WordPress',
+        'Socket.io',
       ],
       certifications: [
         {
@@ -346,6 +349,36 @@ const PROFILE = [
         },
         // Add more objects for additional videos
       ],
+      whatIDo: [
+        {
+            title: 'Full Stack Development',
+            icon: faCode,
+            description: "Passionate about creating seamless and responsive web applications, I specialize in the entire development stack, from crafting engaging user interfaces to building robust server-side applications.",
+            expertise: ['HTML', 'CSS', 'JavaScript', 'React.js', 'Node.js', 'MongoDB', 'MySQL'],
+        },
+        {
+            title: 'Freelancing',
+            icon: faBriefcase,
+            description: "Actively engaged in freelancing projects, my experience spans Sales and Marketing, Back-End Node.js Development, and tutoring in various domains of web development. I am dedicated to delivering tailored solutions that align with clients' goals.",
+            experience: ['Sales and Marketing', 'Back-End Node.js Development', 'Tutoring'],
+        },
+        {
+            title: 'Learning and Teaching via YouTube',
+            icon: faChalkboardTeacher,
+            description: "As a dedicated educator and content creator on YouTube (Bit by Bit), I share valuable insights, tutorials, and code walkthroughs on a range of topics, making complex concepts accessible to learners. My content focuses on simplifying intricate development processes, empowering both beginners and experienced developers to enhance their skills and stay updated with industry trends.",
+            channelLink: 'https://www.youtube.com/@bitbybitofficial',
+            content: ['Setting up Gmail SMTP for Java Email', 'Building Node servers', 'CRUD applications with Node.js and MySQL', 'And more...'],
+        },
+        {
+            title: 'MERN Stack Development',
+            icon: faLaptopCode,
+            description: "Specializing in the MERN stack (MongoDB, Express.js, React, Node.js), I bring a holistic approach to web development. From dynamic and interactive user interfaces to designing and managing databases, I leverage the power of MERN to deliver cutting-edge solutions. My philosophy revolves around staying at the forefront of technology, embracing new challenges, and fostering a passion for innovation within the ever-evolving field of web development.",
+            specialization: ['MongoDB', 'Express.js', 'React', 'Node.js'],
+        },
+    ],
+
+    whatIDoDescription: "I code with passion, constantly exploring new tech. Learning by creating projects is my jam—it's not just about code; it's a journey of innovation and growth.",
+  
     },
   ];
   

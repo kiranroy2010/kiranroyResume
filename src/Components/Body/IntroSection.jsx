@@ -75,17 +75,20 @@ const IntroSection = (props) => {
                     <FontAwesomeIcon icon={faGithub} />
                   </a>
                 </li>
-                <li>
-                  <a
-                    className="whatsapp"
-                    id='whatsapp'
-                    target="_blank"
-                    rel="noreferrer"
-                    href={profile.whatsapp_API}
-                  >
-                    <FontAwesomeIcon icon={faWhatsapp} />
-                  </a>
-                </li>
+                {profile.Whatsapp_Number ? (
+  <li>
+    <a
+      className="whatsapp"
+      id="whatsapp"
+      target="_blank"
+      rel="noreferrer"
+      href={profile.whatsapp_API}
+    >
+      <FontAwesomeIcon icon={faWhatsapp} />
+    </a>
+  </li>
+) : null}
+
                 <li>
                   <a
                     className="youtube"

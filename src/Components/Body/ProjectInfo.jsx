@@ -102,10 +102,13 @@ const ProjectModal = ({ show, project, handleClose }) => {
           </p>
         )}
 
-        <Button variant="primary" onClick={handleClose}>
-          Close
-        </Button>
+        
       </Modal.Body>
+      <Modal.Footer>
+                       <Button variant="primary" onClick={handleClose} >
+          Close
+        </Button> 
+                    </Modal.Footer>
     </Modal>
   );
 };

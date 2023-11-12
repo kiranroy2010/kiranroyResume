@@ -1,0 +1,33 @@
+
+
+.wid-heading {
+    text-align: center;
+}
+
+.wid-description {
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.wid-description h3{
+    color: #E94560;
+}
+
+.wid-col {
+    border: 2px solid #867695 ;
+    background-color: #F8F9FA;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 8px;
+    cursor: pointer;
+ }
+
+.wid-col h4 {
+    margin-top: 10px;
+}
+
+
+
+.text-center .icon{
+    color: #452763;
+}
