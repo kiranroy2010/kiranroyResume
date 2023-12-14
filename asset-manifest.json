@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/kiranroyResume/static/css/main.b14ff959.css",
-    "main.js": "/kiranroyResume/static/js/main.b17ebb8f.js",
+    "main.js": "/kiranroyResume/static/js/main.c51fc268.js",
     "static/js/787.61b554c9.chunk.js": "/kiranroyResume/static/js/787.61b554c9.chunk.js",
     "static/media/Socket_io.jpeg": "/kiranroyResume/static/media/Socket_io.40efdf518c389599f67b.jpeg",
     "static/media/GETvsPOST.png": "/kiranroyResume/static/media/GETvsPOST.762d8c50e5413e44fd5f.png",
+    "static/media/AutomaticDatabaseBackupusingNode.jpg": "/kiranroyResume/static/media/AutomaticDatabaseBackupusingNode.870f6ee6c68544245759.jpg",
     "static/media/Inventory.png": "/kiranroyResume/static/media/Inventory.6718a5a36c6e9b1ffe05.png",
     "static/media/GettingStartedWithNodejs.png": "/kiranroyResume/static/media/GettingStartedWithNodejs.03f9905aa91f2bce05ac.png",
     "static/media/rotson.jpg": "/kiranroyResume/static/media/rotson.6c9fe4dfff9214fe4876.jpg",
@@ -28,11 +29,11 @@
     "static/media/norwester-webfont.woff2": "/kiranroyResume/static/media/norwester-webfont.51c01a41b337f0388dbf.woff2",
     "index.html": "/kiranroyResume/index.html",
     "main.b14ff959.css.map": "/kiranroyResume/static/css/main.b14ff959.css.map",
-    "main.b17ebb8f.js.map": "/kiranroyResume/static/js/main.b17ebb8f.js.map",
+    "main.c51fc268.js.map": "/kiranroyResume/static/js/main.c51fc268.js.map",
     "787.61b554c9.chunk.js.map": "/kiranroyResume/static/js/787.61b554c9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b14ff959.css",
-    "static/js/main.b17ebb8f.js"
+    "static/js/main.c51fc268.js"
   ]
 }
