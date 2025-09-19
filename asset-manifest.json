@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/kiranroyResume/static/css/main.b14ff959.css",
-    "main.js": "/kiranroyResume/static/js/main.c51fc268.js",
+    "main.css": "/kiranroyResume/static/css/main.cf0bc420.css",
+    "main.js": "/kiranroyResume/static/js/main.fd2f847a.js",
     "static/js/787.61b554c9.chunk.js": "/kiranroyResume/static/js/787.61b554c9.chunk.js",
     "static/media/Socket_io.jpeg": "/kiranroyResume/static/media/Socket_io.40efdf518c389599f67b.jpeg",
     "static/media/GETvsPOST.png": "/kiranroyResume/static/media/GETvsPOST.762d8c50e5413e44fd5f.png",
@@ -23,17 +23,17 @@
     "static/media/InkCart.png": "/kiranroyResume/static/media/InkCart.4a5889819d693d510ed6.png",
     "static/media/NetRegister.png": "/kiranroyResume/static/media/NetRegister.81dc2fd15f994c57dbad.png",
     "static/media/cliqraiser.jpg": "/kiranroyResume/static/media/cliqraiser.5f55c378f529020c16be.jpg",
-    "static/media/norwester-webfont.svg": "/kiranroyResume/static/media/norwester-webfont.61ea6aa52c6147ea0964.svg",
+    "static/media/norwester-webfont.svg": "/kiranroyResume/static/media/norwester-webfont.dadb89a066829a3b3367.svg",
     "static/media/1621758938052.jpeg": "/kiranroyResume/static/media/1621758938052.a5e2f051aef114fff113.jpeg",
     "static/media/norwester-webfont.woff": "/kiranroyResume/static/media/norwester-webfont.984c225c9eac894ff76c.woff",
     "static/media/norwester-webfont.woff2": "/kiranroyResume/static/media/norwester-webfont.51c01a41b337f0388dbf.woff2",
     "index.html": "/kiranroyResume/index.html",
-    "main.b14ff959.css.map": "/kiranroyResume/static/css/main.b14ff959.css.map",
-    "main.c51fc268.js.map": "/kiranroyResume/static/js/main.c51fc268.js.map",
+    "main.cf0bc420.css.map": "/kiranroyResume/static/css/main.cf0bc420.css.map",
+    "main.fd2f847a.js.map": "/kiranroyResume/static/js/main.fd2f847a.js.map",
     "787.61b554c9.chunk.js.map": "/kiranroyResume/static/js/787.61b554c9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b14ff959.css",
-    "static/js/main.c51fc268.js"
+    "static/css/main.cf0bc420.css",
+    "static/js/main.fd2f847a.js"
   ]
 }
