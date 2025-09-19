@@ -10,6 +10,7 @@ import WorkExperience from './Body/WorkExperience';
 import ProjectInfo from './Body/ProjectInfo';
 import Footer from './Footer/Footer'
 import WIDSection from './Body/What I do Section/WIDSection';
+import ScrollToTop from './ScrollToTop';
 
 
 function MainComponent(props) {
@@ -22,6 +23,7 @@ function MainComponent(props) {
             <WorkExperience profile={PROFILE[0]} />
             <ProjectInfo profile={PROFILE[0]} />
             <Footer/>
+            <ScrollToTop/> 
         </div>
     );
 }
