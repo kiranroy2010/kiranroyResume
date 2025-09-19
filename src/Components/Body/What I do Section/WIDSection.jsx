@@ -28,7 +28,7 @@ export default function WIDSection({profile}) {
                         <h5>{profile.whatIDoDescription}</h5>
                     </Col>
                     <Col md={12} sm={12} className="wid-description">
-                        <h3>Open for Collaboration! If You're Passionate About Projects, Let's Connect!</h3>
+                        <h3>{profile.collaborationMessage}</h3>
                     </Col>
                 </Row>
                 <Row className="justify-content-center">

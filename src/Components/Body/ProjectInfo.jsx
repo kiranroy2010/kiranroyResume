@@ -19,7 +19,7 @@ const ProjectInfo = ({ profile }) => {
             <h2>Projects</h2>
           </Col>
           <Col md={4} sm={12}>
-            <h5 style={{paddingTop:'10px'}}>Projects Count: <span style={{color:'#0174BE'}}>{profile.projects.length}</span> </h5>
+            <h5 style={{ paddingTop: '10px' }}>Projects Count: <span style={{ color: '#0174BE' }}>{profile.projects.length}</span> </h5>
           </Col>
         </Row>
 
@@ -102,13 +102,13 @@ const ProjectModal = ({ show, project, handleClose }) => {
           </p>
         )}
 
-        
+
       </Modal.Body>
       <Modal.Footer>
-                       <Button variant="primary" onClick={handleClose} >
+        <Button variant="primary" onClick={handleClose} >
           Close
-        </Button> 
-                    </Modal.Footer>
+        </Button>
+      </Modal.Footer>
     </Modal>
   );
 };

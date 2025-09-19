@@ -48,73 +48,74 @@ const PROFILE = [
     whatsapp_API: `https://wa.me/${Whatsapp_Number}?text=${Whatsapp_Message}`,
     image: profileImage,
     introduction:
-      "I'm Kiranroy Patravali, an enthusiastic and dynamic Full-Stack Web Developer with a strong foundation in Adobe Photoshop, Illustrator, and digital marketing. I excel in HTML, CSS, JavaScript, Python, React, Node.js, MySQL, and MongoDB, crafting seamless web applications. My motivation to learn and grow drives me to pursue opportunities for practical experience and career development.",
+      "Frontend Engineer specializing in React.js, TypeScript, and Next.js with backend exposure in Node.js, PostgreSQL, and Redis, enabling end-to-end feature delivery. Skilled in building scalable, performant, and user-centric applications with Material UI and Ant Design. Proven success in improving app performance (25–60%) via caching and API optimization, strengthening security with RBAC, and automating workflows with reusable components. Certified in React, JavaScript, SQL, REST APIs, and AWS Cloud Foundations. Currently learning GraphQL and Jest to improve API integrations and testing coverage.",
     quickInfo: [
-      'Full-Stack Web developer',
-      'YouTuber',
-      'Free-Lancing',
-      'MERN Dev'
+      'Frontend Engineer',
+      'React.js | Next.js | Node.js',
+      'Performance & Security Focused',
+      'CI/CD | Cloud Foundations',
     ],
     currentCompany: 'Tata Consultancy Services (TCS)',
-    workLocation: 'Bangalore, Karnataka, India',
+    workLocation: 'Bengaluru, Karnataka, India',
     experience: [
       {
-        title: 'Sales and Marketing Intern, My Live Tuition',
-        type: 'Free Lancing',
-        date: 'Dec 2020 - Feb 2021',
+        title: 'System Engineer, Tata Consultancy Services (India)',
+        type: 'Full-time',
+        date: 'Aug 2025 – Present',
         details: [
-          'Connecting with client and making a deal for the firm.',
-          'Approached clients through calls, email, and in person, based on design brief and promo specification.',
+          'Implemented AbortController to optimize API requests, reducing redundant backend calls by 35% and improving response time by 22%.',
+          'Consolidated file upload logic into a modular HOC, reducing duplicate code by 40% across modules.',
+          'Translated Figma mockups into modular, accessible React components aligned with brand guidelines.',
         ],
       },
       {
-        title: 'Back-End Node.js Developer, Abhiyantrik Solutions',
-        type: 'Free Lancing',
-        date: 'February 2023 – March 2023',
+        title: 'System Engineer, Tata Consultancy Services (Saudi Arabia)',
+        type: 'Full-time (Onsite)',
+        date: 'Feb 2025 – Aug 2025',
         details: [
-          'Managing and developing backend for Smart Home Application, managing Database and hosting Server.',
-          'Worked on MQTT Protocols and MQTT Library in Node.js to build real-time communication between MQTT Broker and MQTT Topics.',
-          'Designing a Database Schema to Store and retrieve all the App data effectively and efficiently.',
-          'Building all API End-points required to enable interaction between the app and server.',
+          'Delivered scalable feature enhancements improving client adoption and security posture.',
+          'Implemented RBAC and encrypted session data for compliance and secure access.',
+          'Applied caching + validation to reduce redundant API usage, boosting responsiveness by 25–60%.',
+          'Built multi-document workflows and dynamic task assignments to automate manual processes.',
+          'Conducted stakeholder training to accelerate adoption of delivered solutions.',
         ],
       },
       {
-        title: 'Tutor, Agileitech',
-        type: 'Free Lancing',
-        date: 'February 2023 - July 2023',
+        title: 'System Engineer, Tata Consultancy Services (India)',
+        type: 'Full-time',
+        date: 'Jun 2023 – Feb 2025',
         details: [
-          'Taught Front-End and Back-End development, Database Management, Python programming, and Data Structures to diverse student groups.',
-          'Developed effective course materials to promote engagement and knowledge retention.',
-          'Provided individualized guidance and support to help students achieve their learning objectives.',
+          'Built enterprise-grade React.js apps with secure coding practices.',
+          'Designed micro-frontend modules & reusable libraries enabling independent deployments.',
+          'Developed global search, task management, and server-side filtered data tables improving data efficiency by 40%.',
+          'Maintained zero-defect delivery through unit testing and secure coding.',
+          'Reduced defect resolution time by 30% via proactive debugging and faster turnaround.',
         ],
       },
-      {
-        title: 'Server Management & Application Development, K.L.E. Institute of Technology, Hubballi',
-        type: 'Internship (In-house)',
-        date: 'December 2022 - July 2023',
-        details: [
-          'Developed multiple web applications, including the Ink-Cartridge Management System, Placement Website, Net Registration System, Attendance Records System, and Asset Management System, all of which are currently in use for effective management within the university.',
-          'Contributed to the development of a Facial Recognition Attendance System using Python OpenCV, which is currently utilized in all K.L.E Society\'s schools as a system for recording teachers\' attendance.',
-          'I collaborated with the IT admin to identify issues faced by the university, and together, we devised programming solutions to address some of these problems, successfully implementing them through our application. ',
-        ],
-      },
-      // Other experiences...
+
     ],
 
     skills: [
-      'HTML',
-      'CSS',
-      'JavaScript',
       'React.js',
+      'Next.js',
+      'TypeScript',
+      'JavaScript',
       'Node.js',
-      'MySQL',
-      'MongoDB',
-      'Adobe Creative Suite',
-      'AEM',
-      'Php',
-      'WordPress',
-      'Socket.io',
+      'PostgreSQL',
+      'Redis',
+      'REST API Development',
+      'Material-UI (MUI)',
+      'React Query',
+      'Axios',
+      'Responsive Web Design',
+      'Git',
+      'CI/CD',
+      'Unit Testing',
+      'Agile/Scrum',
+      'Twilio',
+      'NodeMailer'
     ],
+
     certifications: [
       {
         name: 'AWS ACADEMY GRADUATE - AWS ACADEMY CLOUD FOUNDATIONS, AMAZON WEB SERVICES TRAINING AND CERTIFICATION',
@@ -386,7 +387,9 @@ const PROFILE = [
       },
     ],
 
-    whatIDoDescription: "I code with passion, constantly exploring new tech. Learning by creating projects is my jam—it's not just about code; it's a journey of innovation and growth.",
+    whatIDoDescription: "I love turning ideas into real, working apps. I explore new tech, learn by building projects, and focus on solving problems that actually make an impact. Whether it's a small feature or a big system, I enjoy the whole process from start to finish. I'm always looking for ways to improve and make things better, one line of code at a time.",
+
+    collaborationMessage: "Let’s team up and turn cool ideas into reality — always up for building fun stuff!",
 
   },
 ];
